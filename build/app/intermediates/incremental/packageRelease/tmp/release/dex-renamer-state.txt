@@ -1,0 +1,4 @@
+#Wed Jun 24 19:09:45 BRT 2020
+base.0=/home/bufelli/dev_projects/cursoFlutter_DanielCiolfi/to_do_list/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
